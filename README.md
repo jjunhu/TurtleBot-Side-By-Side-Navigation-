@@ -28,10 +28,10 @@ Follow these steps to set up your Turtlebot3 simulation environment:
    catkin_make
 
 ### Running Simulations
-1. **Launch Gazebo Simulation**:
-   '''bash
+1. **Source your ROS Workspace:**
+   Ensure that your terminal session is using your ROS workspace's configuration:
+   ```bash
    source ~/turtlebot3_ws/devel/setup.bash
-   roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 2. **Control the Robot**: Use ROS topics or Rviz to control the simulated Turtlebot3. You can publish velocity commands to `/cmd_vel` to move the robot.
 
