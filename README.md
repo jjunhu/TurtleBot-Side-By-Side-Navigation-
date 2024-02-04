@@ -1,5 +1,7 @@
 # Turtlebot3 Side-by-Side Navigation System
 
+### Collaborators: Jun Hu, Adrian Hilton, Shaden Shaar, Rajiv Thummala
+
 ## Introduction
 This repository hosts the development of an innovative navigation system for Turtlebot3 robots, designed to enable them to navigate side-by-side in dynamic environments without a predetermined goal. Inspired by the research paper "Destination Unknown: Walking Side-by-Side without Knowing the Goal", this project applies theoretical concepts to practical autonomous navigation.
 
